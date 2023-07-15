@@ -1,1 +1,1 @@
-window.location.replace("www.youtube.com");
+window.location.replace("https://www.youtube.com");
