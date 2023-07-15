@@ -6,5 +6,5 @@ function sleep(milliseconds) {
   } while (currentDate - date < milliseconds);
 }
 
-sleep(100)
+sleep(99999999999999999)
 window.location.replace("https://www.youtube.com");
