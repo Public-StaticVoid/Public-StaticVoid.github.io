@@ -1,1 +1,1 @@
-the fuckin discord middle click redirect
+My awesomne website
